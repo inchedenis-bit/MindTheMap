@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mindthemap.or.ke/sitemap.xml
